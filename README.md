@@ -1,21 +1,21 @@
-# 👋 Hi, I'm Damian Barrd
+# 🖖 Hi, I'm Bart 
 
 🚀 **Release Manager · DevOps Leader · Salesforce & Platform Engineer**
 
 I turn complex delivery challenges into fast, secure, highly automated release pipelines — and help engineering teams do their best work.
 
-- 🏗️ Built enterprise CI/CD platforms across **GitLab CI/CD**, **GitHub Actions**, **Azure DevOps**, **Bitbucket Pipelines**, and **Jenkins**
-- ⚡ Delivered **1,000+ Salesforce releases per year**, cutting deployment failures from **40% to 2%**
-- ☁️ Designed cloud-native infrastructure on **AWS** and **GCP** with **Docker**, **Kubernetes**, **Terraform**, **GitOps**, and **Linux**
-- 📦 Expertise in **Salesforce**, unlocked packages, SFDX, Apex, SOQL, LWC, Vlocity, MuleSoft, Salesforce CPQ, and data migrations
-- 🛡️ Built quality gates with **SonarQube**, **PMD**, **SAST**, code coverage, and automated testing
-- 🤖 Bringing **AI-assisted development** into delivery with Claude Code, GitHub Copilot, Agentforce, Azure AI Foundry, and OpenAI
-- 👥 Experienced in leading DevOps teams, mentoring engineers, hiring, Agile delivery, and enterprise transformations
+- Built enterprise CI/CD platforms across **GitLab CI/CD**, **GitHub Actions**, **Azure DevOps**, **Bitbucket Pipelines**, and other tools
+- Delivering **1,000+ Salesforce releases per year**, cutting deployment failures and improving quality.
+- Designed cloud-native infrastructure on **AWS** and **GCP** with **Docker**, **Kubernetes**, **Terraform**, **GitOps**, and **Linux**
+- Expertise in **Salesforce**, unlocked packages, SFDX, Apex, SOQL, LWC, Vlocity, MuleSoft, Salesforce CPQ, and data migrations
+- Built quality gates with **SonarQube**, **PMD**, **SAST**, code coverage, and automated testing
+- Bringing **AI-assisted development** into delivery with Claude Code, GitHub Copilot, Agentforce, Azure AI Foundry, and OpenAI
+- Experienced in leading DevOps teams, mentoring engineers, hiring, Agile delivery, and enterprise transformations
 
 ## 🔧 Technologies
 
-`Git` · `Docker` · `Kubernetes` · `AWS` · `GCP` · `Terraform` · `GitOps` · `Linux`  
-`GitLab CI/CD` · `GitHub Actions` · `Azure DevOps` · `Bitbucket Pipelines` · `Jenkins`  
+`Git` · `Docker` · `AWS` · `GCP` · `Terraform` · `GitOps` · `Linux`  
+`GitLab CI/CD` · `GitHub Actions` · `Bitbucket Pipelines` · `Jenkins`  
 `HashiCorp Vault` · `JFrog` · `SonarQube` · `PMD` · `SAST` · `Prometheus` · `Grafana`  
 `Salesforce` · `Apex` · `LWC` · `SOQL` · `SFDX` · `Vlocity` · `MuleSoft` · `CPQ`  
 `Node.js` · `Python` · `JavaScript` · `TypeScript` · `Bash` · `Playwright`  
@@ -23,7 +23,7 @@ I turn complex delivery challenges into fast, secure, highly automated release p
 
 ## 🌍 Languages
 
-🇬🇧 English — C1 · 🇵🇱 Polish — C2 · 🇪🇸 Spanish — B1
+🇬🇧 English · 🇵🇱 Polish · 🇪🇸 Spanish 
 
 ## 🏆 Recognition
 
